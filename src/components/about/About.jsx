@@ -30,11 +30,11 @@ const About = () => {
           <article>
             <div>
               <img src={me} alt="Founder" />
-              <h3>Shivani Patel</h3>
+              <h3>Rutvik Makwana</h3>
             </div>
 
             <p>
-              I am Shivani Patel, the founder of Hammy's Hamburgers. Affiliated to
+              I am Rutvik Makwana, the founder of Hammy's Hamburgers. Affiliated to
               God Taste...
             </p>
           </article>
