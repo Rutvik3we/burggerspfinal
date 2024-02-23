@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { RiFindReplaceLine } from "react-icons/ri";
-import me from "../../assets/main.jpg";
+//import me from "../../assets/main.jpg";
 
 const About = () => {
   return (
@@ -29,7 +29,7 @@ const About = () => {
           <h2>Founder</h2>
           <article>
             <div>
-              <img src={me} alt="Founder" />
+              
               <h3>Rutvik Makwana</h3>
             </div>
 
